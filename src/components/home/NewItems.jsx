@@ -88,8 +88,8 @@ const NewItems = () => {
   };
 
   return (
-    <section data-aos="slide-right" className="container">
-      <div className="row">
+    <section className="container">
+      <div data-aos="slide-left" className="row">
         <div className="col-md-12">
           <div className="text-center">
             <h2>New Items</h2>
