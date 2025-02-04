@@ -17,9 +17,9 @@ const root = createRoot(container); // createRoot returns a Root object.
 // Render your App component inside the root
 
 root.render(
-  <React.StrictMode>
+  <div>
     {" "}
     {/* Use StrictMode in development for catching common bugs */}
     <App />
-  </React.StrictMode>
+  </div>
 );
