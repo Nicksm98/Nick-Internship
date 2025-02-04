@@ -42,8 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "webpack-bundle-analyzer": "^4.10.2"
-  }
-}
+//   },
+//   "devDependencies": {
+//     "webpack-bundle-analyzer": "^4.10.2"
+//   }
+// }
