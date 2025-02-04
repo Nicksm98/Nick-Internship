@@ -88,7 +88,7 @@ const NewItems = () => {
   };
 
   return (
-    <section className="container">
+    <section data-aos="slide-right" className="container">
       <div className="row">
         <div className="col-md-12">
           <div className="text-center">
